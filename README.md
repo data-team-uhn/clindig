@@ -1,5 +1,8 @@
-# ClinDIG
+<p align="center">
+  <img src="https://github.com/data-team-uhn/cards/blob/clindig_demo/clindig-resources/clinical-data/src/main/media/SLING-INF/content/libs/cards/resources/logo.png" width="600px" alt="ClinDIG logo"/>
+</p>
 
+# ClinDIG
 ## Documentation
 
 ## Factsheet
