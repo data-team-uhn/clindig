@@ -6,7 +6,7 @@
 ## Documentation
 This is where some text will go regarding how to build CARDS in a way where the correct project is built out of this repo.
 
-These instructions will also describe requirements around a CanDIGv2 instance is running and how one would modify the code to point CARDS at CanDIG
+These instructions will also describe requirements around a CanDIGv2 instance is running and how one would modify the code to point CARDS at CanDIG. Alternatively, this may be a description describing the interaction between the two systems
 
 
 ## Code/Download
