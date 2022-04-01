@@ -10,8 +10,8 @@ These instructions will also describe requirements around a CanDIGv2 instance is
 
 
 ## Code/Download
-[CanDIG v2](https://github.com/CanDIG/CanDIGv2)
-[CARDS](https://github.com/data-team-uhn/cards/)
+- [CanDIG v2](https://github.com/CanDIG/CanDIGv2)
+- [CARDS](https://github.com/data-team-uhn/cards/)
 
 ## Factsheet
 ClinDIG integrates two software platforms: CanDIG and CARDS to create a rich clinical and genomic data management solution that enables federated analysis while protecting patient privacy.
