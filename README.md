@@ -24,6 +24,8 @@ vagrant up
 Open `http://localhost:2543/`
 
 ## Code/Download
+The ClinDIG code can be found in the [ClinDIG Repo](https://github.com/data-team-uhn/clindig/).
+
 If you'd like to access the code to the platforms this project brought together as separate entities, please visit:
 - [CanDIG v2](https://github.com/CanDIG/CanDIGv2)
 - [CARDS](https://github.com/data-team-uhn/cards/)
