@@ -16,7 +16,7 @@ Run the following commands:
 ```
 vagrant plugin install vagrant-disksize
 vagrant plugin install vagrant-reload
-git clone git@github.com:sdumitriu/CanDIGv2.git
+git clone git@github.com:data-team-uhn/clindig.git
 cd CanDIGv2
 git checkout vagrant-docker-compose-install
 vagrant up
