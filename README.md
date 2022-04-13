@@ -32,6 +32,10 @@ If you'd like to access the code to the platforms this project brought together 
 New features and bug fixes are tested and released into the development branch upon completion. Releases are created by combining a number of features into a single release tag, upon which release notes will be updated. During development, pull requests are reviewed and validated by the development team before being merged into the development branch. All ClinDIG releases will be approved by DATA Team leadership.
 
 ## Release Notes
+0.2.0 - initial public release, 2022-04-14
+
+For future releases, please see the Github releases tab. To see the changes between versions, please use the Github "compare" feature.
+
 
 ## Support
 This is free software! Create an issue in GitHub to ask others for help, or try fixing the issue yourself and then make a pull request to contribute it back to the core. If you have any questions, please contact data.team@uhn.ca
