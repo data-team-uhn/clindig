@@ -8,20 +8,8 @@
 ClinDIG integrates two software platforms: CanDIG and CARDS to create a rich clinical and genomic data management solution that enables federated analysis while protecting patient privacy. CanDIG offers a suite of federation services to enable privacy-protected clinical and phenotypic data sharing and research across multiple sites. CARDS offers a data management platform that can be configured for your own needs, integrating a UI for questionnaire development, connection to numerous ontologies for data structure, and a patient-facing questionnaire UI for direct data capture. 
 
 ## Documentation
-### Prerequisites
-- `vagrant`
-- `virtualbox`
-
-Run the following commands:
-```
-vagrant plugin install vagrant-disksize
-vagrant plugin install vagrant-reload
-git clone git@github.com:data-team-uhn/clindig.git
-cd CanDIGv2
-git checkout vagrant-docker-compose-install
-vagrant up
-```
-Open `http://localhost:2543/`
+- To run CARDS, please visit https://github.com/data-team-uhn/cards#readme
+- To run CanDIG, please visit https://github.com/CanDIG/CanDIGv2#readme
 
 ## Code/Download
 The ClinDIG code can be found in the [ClinDIG Repo](https://github.com/data-team-uhn/clindig/).
